@@ -1,4 +1,4 @@
-# 🎯 Assault Cube Memory Reader
+# 🎯 Assault Cube Memory Writer
 
 [![Language](https://img.shields.io/badge/Language-C-blue.svg)](https://en.wikipedia.org/wiki/C_(programming_language))
 [![Platform](https://img.shields.io/badge/Platform-Windows-lightgrey.svg)](https://www.microsoft.com/windows)
