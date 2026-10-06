@@ -65,7 +65,7 @@ int main(void) {
         if(GetAsyncKeyState(VK_F2) < 0) {
 
             afterMptBullet = 999;
-            WriteProcessMemory(allowProcess, (LPVOID)mpt57BulletAddress, &afterMptBullet, sizeof(afterHealth), NULL);
+            WriteProcessMemory(allowProcess, (LPVOID)mpt57BulletAddress, &afterMptBullet, sizeof(afterMptBullet), NULL);
 
         }
 
